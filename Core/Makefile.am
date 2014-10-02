@@ -6,5 +6,5 @@ if ENABLE_DEBUG
  SUBDIRS =  KopiLua/KopiLua KeraLua/src NLua
 endif
 if ENABLE_RELEASE
- SUBDIRS =  KopiLua/KopiLua KeraLua/src NLua
+ SUBDIRS =  KopiLua/KopiLua KeraLua/src NLuka
 endif
